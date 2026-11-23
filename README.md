@@ -1,1 +1,1 @@
-# seatguard
+# Formal verification project
